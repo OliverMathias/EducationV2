@@ -22,6 +22,9 @@ A Repository for Documenting my Alternative Approach to Post Secondary Education
 ## Subjects I Plan to Cover / Review
 * Math
 * Biology
+* Psychology
+  * Negotiation
+  * Growth Mindset
 * Physics
   * Classical Mechanics
 * Hardware Engineering
@@ -33,3 +36,5 @@ A Repository for Documenting my Alternative Approach to Post Secondary Education
 * Business
   * Practical Startup Validation Framework
   * Business Law
+## Related Books to Read
+* Six Easy Pieces - Richard Feynman
