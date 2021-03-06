@@ -38,3 +38,6 @@ A Repository for Documenting my Alternative Approach to Post Secondary Education
   * Business Law
 ## Related Books to Read
 * Six Easy Pieces - Richard Feynman
+* [Hands On Machine Learning](https://raw.githubusercontent.com/yanshengjia/ml-road/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
+* The Republic - Plato
+* A Random Walk Down Wallstreet - Burton Malkiel
