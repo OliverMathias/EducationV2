@@ -42,3 +42,4 @@ A Repository for Documenting my Alternative Approach to Post Secondary Education
 * The Republic - Plato
 * A Random Walk Down Wallstreet - Burton Malkiel
 * Thomas Jefferson and the Tripoli Pirates - Brian Kilmeade
+* Benjamin Graham: The Intelligent Investor
