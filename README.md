@@ -41,3 +41,4 @@ A Repository for Documenting my Alternative Approach to Post Secondary Education
 * [Hands On Machine Learning](https://raw.githubusercontent.com/yanshengjia/ml-road/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
 * The Republic - Plato
 * A Random Walk Down Wallstreet - Burton Malkiel
+* Thomas Jefferson and the Tripoli Pirates - Brian Kilmeade
